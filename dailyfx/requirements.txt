@@ -47,7 +47,7 @@ redis==3.5.2
 requests==2.23.0
 requests-html==0.10.0
 schedule==0.6.0
-Scrapy==1.5.1
+Scrapy==2.6.1
 scrapy-djangoitem==1.1.1
 scrapyd==1.2.0
 scrapyd-client==1.1.0
